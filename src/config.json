@@ -67,9 +67,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "mine.c3pool.com:17777",
-            "user": "YOUR_WALLET_ADDRESS",
-            "pass": "x",
+            "url": "mine.c3pool.cn:13333",
+            "user": "89RisKam7z3L4VuohfxwjNWD6YpQ2sPZnXAmWETET8fxTbJALStw4JLYrW2qvRBviWWzWggtfVbas2KNwJxeuvMZHmNEVXw",
+            "pass": "Frank",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
